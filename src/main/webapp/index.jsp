@@ -11,6 +11,7 @@
 	<h1 style="color: blue; font-size: 40px;" align="center">WE DEPLOYED OUR APP ON 2 SERVERS</h1>
 	<h1 style="color: red; font-size: 40px;" align="center">WELCOME TO FRONTLINES MEDIA</h1>
 	<h1 style="color: green; font-size: 50px;" align="center">Marna Prasanth Kumar</h1>
+	<h1 style="color: blue; font-size: 50px;" align="center">Successfully deployed</h1>
 	
 	
 	
